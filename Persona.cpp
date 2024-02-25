@@ -6,7 +6,7 @@ class Persona{
     Persona (){
             }
     Persona (string nom,string ape, string dir,string fe_n, int tele){
-            nombres nom;
+            nombres = nom;
             apellidos = ape;
             direccion = dir;
             telefono = tele;
